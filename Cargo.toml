@@ -2,6 +2,10 @@
 name = "bevy_navgraph"
 version = "0.0.1"
 edition = "2021"
+keywords = ["bevy", "gamedev", "pathfinding"]
+license = "MIT"
+description = "A navgraph generation plugin for bevy"
+repository = "https://github.com/Olle-Lukowski/bevy_navgraph"
 
 [profile.dev]
 opt-level = 1
